@@ -2,7 +2,7 @@ import React from "react";
 import { SuccessButton } from "./SuccessButton";
 
 export default {
-  title: "UI/Buttons",
+  title: "UI/Buttons/Success",
   component: SuccessButton,
   argTypes: {
     onClick: {

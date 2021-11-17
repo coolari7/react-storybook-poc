@@ -2,7 +2,7 @@ import React from "react";
 import { WarningButton } from "./WarningButton";
 
 export default {
-  title: "UI/Buttons",
+  title: "UI/Buttons/Warning",
   component: WarningButton,
   argTypes: {
     onClick: {

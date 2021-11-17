@@ -2,7 +2,7 @@ import React from "react";
 import { InfoButton } from "./InfoButton";
 
 export default {
-  title: "UI/Buttons",
+  title: "UI/Buttons/Info",
   component: InfoButton,
   argTypes: {
     onClick: {
